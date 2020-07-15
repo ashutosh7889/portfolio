@@ -41,3 +41,10 @@ html{
 	font-size: 25px;
 }
 
+.home .navbar-content .nav-item .nav-link{
+	color: white;
+	padding-left: 15px;
+	text-transform: uppercase;
+	transition: all .5s ease;
+}
+
