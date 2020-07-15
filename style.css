@@ -84,4 +84,22 @@ html{
 	font-size: 45px;
 }
 
+.home-content .cv-btn a{
+	border-radius: 5px;
+	border: 1px solid #ffffff;
+	padding: 6px;
+	transition: all .4s ease;
+	text-decoration: none;
+	color: #ffffff;
+}
+.home-content .cv-btn{
+	margin-top: 20px;
+	text-decoration: none;
+	transition: all 0.45s ease;
+}
+.home-content .cv-btn a:hover{
+	background-color: black;
+}
+
+
 
