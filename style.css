@@ -62,4 +62,11 @@ html{
 	border-left: 4px solid #ffffff;
 }
 
+.home-content h1{
+	font-weight: 700;
+	text-transform: uppercase;
+	letter-spacing: 3px;
+	transition: all 0.9s ease;
+}
+
 
