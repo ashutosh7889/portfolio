@@ -48,3 +48,8 @@ html{
 	transition: all .5s ease;
 }
 
+.home .navbar-content .nav-item .nav-link a:hover{
+	color: red;
+}
+
+
