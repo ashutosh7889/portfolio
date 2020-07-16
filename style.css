@@ -417,6 +417,17 @@ html{
 	position: relative;
 }
 
+.gallery .section-title h1::before{
+	content: '';
+	bottom: 0px;
+	left: 33%;
+	right: 33%;
+	background-color: white;
+	height: 3px;
+	position: absolute;
+}
+
+
 
 
 
