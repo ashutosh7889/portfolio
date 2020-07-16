@@ -409,6 +409,15 @@ html{
 	margin-bottom: 50px;
 }
 
+.gallery .section-title h1{
+	font-weight: 700;
+	font-size: 50px;
+	padding-bottom: 15px;
+	letter-spacing: 3px;
+	position: relative;
+}
+
+
 
 
 
