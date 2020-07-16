@@ -316,6 +316,21 @@ html{
 }
 
 
+@keyframes animateVisible{
+	0%{
+		background-color: white;
+		opacity: 0;
+		border-color: white;
+	}
+	100%{
+		background-color: #0000f0;
+		border-color: #0000ff;
+		opacity: 1;
+	}
+
+}
+
+
 
 
 
