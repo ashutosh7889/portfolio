@@ -452,6 +452,12 @@ html{
 	justify-content: center;
 }
 
+.gallery .section-content .card:hover .overlay{
+	opacity: 1;
+	color: white;
+}
+
+
 
 
 
