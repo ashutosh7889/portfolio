@@ -379,6 +379,12 @@ html{
 	transition: all 1s ease;
 }
 
+.projects .section-content .row-content .box:hover .fa{
+	color: tomato;
+	background-color: white;
+}
+
+
 
 
 
