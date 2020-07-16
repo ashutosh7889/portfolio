@@ -706,6 +706,14 @@ footer .social-links a:hover{
 }
 
 
+/*-------------------------Responsive---------------------*/
+
+@media only screen and (max-width: 500px){
+	.skills .pic-sec{
+		display: none;
+	}
+}
+
 
 
 
