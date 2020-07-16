@@ -101,5 +101,12 @@ html{
 	background-color: black;
 }
 
+/*-----------------------------About-me----------------------------*/
+.about-me{
+	/*background-color: #eeeeee;*/
+	background-color: rgba(0,0,0,.5);
+	padding-bottom: 100px;
+}
+
 
 
