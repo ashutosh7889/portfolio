@@ -448,6 +448,10 @@ html{
 	background-color:rgba(0,0, 0, 0.5);
 }
 
+.gallery .section-content .card .overlay .item{
+	justify-content: center;
+}
+
 
 
 
