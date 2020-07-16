@@ -299,6 +299,11 @@ html{
 	transition: all 1s ease;
 }
 
+.services .row .box:hover{
+	transition: all 1s ease;
+}
+
+
 
 
 
