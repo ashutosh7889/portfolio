@@ -507,6 +507,20 @@ html{
     padding-bottom: 100px;
 }
 
+.counters .row .icon{
+}
+
+.counters .row .icon .fa{
+	background-color: transparent;
+	color: white;
+	border-radius: 50%;
+	height: 100px;
+	width: 100px;
+	padding-top: 20px;
+	margin-top: 15px;
+	border:7px solid white;
+}
+
 
 
 
