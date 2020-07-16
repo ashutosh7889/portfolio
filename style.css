@@ -661,6 +661,51 @@ i {
 }
 
 
+/* footer section  */
+
+footer{
+	background-color: black;
+
+	color: white;
+	height: 200px;
+
+}
+footer .title{
+	flex: 0 0 100%;
+	max-width: 100%;
+	text-align: center;
+}
+
+footer .title h1{
+	padding-top: 35px;
+	color: red;
+	text-transform: uppercase;
+	letter-spacing: 3px;
+	font-weight: 700;
+	letter-spacing: 8px;
+}
+
+footer .social-links{
+	height: 80px;
+	line-height: 50px;
+	font-size: 25px;
+	flex: 0 0 100%;
+	max-width: 100%;
+	text-align: center;
+	padding-top: 20px;
+}
+footer .social-links a{
+	padding-right: 20px;
+	padding-top: 20px;
+	color: grey;
+	transition: all 0.5s ease;
+}
+footer .social-links a:hover{
+	color: white;
+	font-size: 35px;
+}
+
+
 
 
 
