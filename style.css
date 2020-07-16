@@ -467,6 +467,11 @@ html{
 	font-weight: 500;
 }
 
+.gallery .section-content .card:hover .overlay .item .icon .fa{
+	animation: animateDown 0.8s ease;
+}
+
+
 
 
 
