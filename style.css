@@ -235,6 +235,11 @@ html{
 	padding-right: 20px;
 }
 
+.skills .skill-content .title h1{
+	font-weight: 650;
+	text-transform: uppercase;
+}
+
 
 
 
