@@ -171,6 +171,12 @@ html{
 	font-weight: 600;
 }
 
+.about-me .section-content .row label span{
+	font-size: 15px;
+	font-weight: 500;
+	color: linear-gradient(#745856);
+}
+
 
 
 
