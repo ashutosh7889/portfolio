@@ -160,6 +160,17 @@ html{
 	border-bottom: 2px solid black;
 }
 
+.about-me .section-content .row{
+}
+
+.about-me .section-content .row label{
+
+}
+
+.about-me .section-content .row label h5{
+	font-weight: 600;
+}
+
 
 
 
