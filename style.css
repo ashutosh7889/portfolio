@@ -396,6 +396,16 @@ html{
 	font-weight: 600;
 }
 
+/*----------------------------Gallery-----------------------*/
+
+.gallery {
+	margin:  100px 15px;
+	background-color: rgba(0,0,0,0.5);
+	background-blend-mode: darken;
+	padding-bottom: 50px;
+}
+
+
 
 
 
