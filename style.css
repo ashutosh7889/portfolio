@@ -207,6 +207,20 @@ html{
 	border-color: black;
 }
 
+/*------------------------------Skills------------------------*/
+
+
+.skills{
+	/*background-image: url("images/g6.jpg");*/
+	/*background-color: #eeeeee;*/
+	background-color: rgba(0,0,0,0.5);
+	background-position: center;
+	background-attachment: fixed;
+	
+	/*background-size: 100%;*/
+}
+
+
 
 
 
