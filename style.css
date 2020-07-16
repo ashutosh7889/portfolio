@@ -177,6 +177,14 @@ html{
 	color: linear-gradient(#745856);
 }
 
+.about-me .section-content .social-links{
+	flex: 0 0 100%;
+	width: 100%;
+	font-size: large;
+	text-align: right;
+	margin-top: 25px;
+}
+
 
 
 
