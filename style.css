@@ -278,6 +278,14 @@ html{
 	margin-bottom: 5px;
 }
 
+.services .row .img-setting{
+	background-color: transparent;
+	height: 200px;
+	padding-bottom: 0px;
+	/*padding-bottom: 10px;*/
+	transition: all 0.5s ease;
+}
+
 
 
 
