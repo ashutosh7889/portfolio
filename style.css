@@ -311,6 +311,10 @@ html{
 	/*animation: animateVisible 1.5s ease;*/
 }
 
+.services .row .box:hover{
+	background-color: rgba(256,256,256,0.5);
+}
+
 
 
 
