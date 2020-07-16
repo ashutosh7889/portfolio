@@ -521,6 +521,12 @@ html{
 	border:7px solid white;
 }
 
+.counters .row{
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+
 
 
 
