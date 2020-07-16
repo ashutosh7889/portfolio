@@ -113,5 +113,12 @@ html{
 	margin-bottom: 50px;
 }
 
+.about-me .section-title h1{
+	font-weight: 700;
+	text-transform: uppercase;
+	position: relative;
+	padding-bottom: 20px;
+}
+
 
 
