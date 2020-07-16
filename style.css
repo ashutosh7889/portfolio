@@ -462,6 +462,11 @@ html{
 	cursor: pointer;
 }
 
+.gallery .section-content .card .overlay .item .text h5{
+	font-weight: 30px;
+	font-weight: 500;
+}
+
 
 
 
