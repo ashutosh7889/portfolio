@@ -471,6 +471,10 @@ html{
 	animation: animateDown 0.8s ease;
 }
 
+.gallery .section-content .card:hover .overlay .item .text h5{
+	animation: animateUp 0.8s ease;
+}
+
 
 
 
