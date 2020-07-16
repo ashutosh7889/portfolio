@@ -185,6 +185,18 @@ html{
 	margin-top: 25px;
 }
 
+.about-me .section-content .social-links a{
+	height: 100px;
+	width: 100px;
+	padding-right: 15px;
+	margin-top: 20px;
+	border: 1px solid white;
+	border-radius: 5px;
+	background-color: white;
+	color: black;
+	text-align: center;
+}
+
 
 
 
