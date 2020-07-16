@@ -431,6 +431,24 @@ html{
 	opacity: 100%;
 }
 
+.gallery .section-content .card .overlay{
+	position: absolute;
+	top: 0;
+	bottom: 165px;
+	left: 0;
+	right: 0;
+	display: flex;
+	flex-wrap: nowrap;
+		/*display: flex;*/
+	/*flex-wrap: nowrap;*/
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	opacity: 0;
+	background-color:rgba(0,0, 0, 0.5);
+}
+
+
 
 
 
