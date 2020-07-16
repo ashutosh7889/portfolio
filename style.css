@@ -337,6 +337,15 @@ html{
 	background-color: rgba(0,0,0,0.5);
 }
 
+.projects .section-title h1{
+	font-weight: 700;
+	padding-top: 50px;
+	padding-bottom: 15px;
+	text-transform: uppercase;
+	position: relative;
+}
+
+
 
 
 
