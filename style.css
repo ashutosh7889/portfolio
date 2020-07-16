@@ -597,6 +597,69 @@ i {
 	padding-bottom: 10px;
 }
 
+.contact-us .section-title h1::before{
+	content: '';
+	left: 0;
+	position: absolute;
+	height: 3px;
+	right: 0;
+	background-color: #ffffff;
+	bottom: 0px;
+}
+
+.contact-us .contact-form{
+	padding: 25px;
+	padding-top: 50px;
+	margin-top: 25px;
+	align-items: center;
+	flex: 0 0 100%;
+	max-width: 100%;
+	background-color: transparent;
+}
+
+.contact-us .contact-form textarea{
+	height: 200px;
+	margin-top: 20px;
+}
+
+.contact-us .contact-form .text{
+	flex: 0 0 100%;
+	max-width: 100%;
+	text-align: center;
+}
+.contact-us .contact-form .text h4{
+	font-size: 25px;
+	font-weight: 500;
+}
+
+.contact-us .contact-form .col-6{
+	padding: 25px;
+	max-width: 100%;
+}
+.contact-us .contact-form .col-12{
+	max-width: 100%;
+}
+.contact-us .contact-form .button{
+	padding:10px;
+	flex: 100%;
+	max-width: 100%;
+	margin: 5px;
+}
+.contact-us .contact-form .button a{
+	float: left;
+	border: 2px solid #bbbbbb;
+	padding: 5px;
+	border-radius: 15px;
+	text-decoration:none;
+	color: white;
+	margin-left: 20px;
+	transition: 1s ease;
+}
+.contact-us .contact-form .button a:hover{
+	background-color: white;
+	color: black;
+}
+
 
 
 
