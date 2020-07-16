@@ -264,6 +264,17 @@ html{
 
 }
 
+.services .section-title h1::before{
+	content: '';
+	left: 35%;
+	right: 35%;
+	bottom:0%;
+	position: absolute;
+	background-color: white;
+	height: 3px;
+}
+
+
 
 
 
