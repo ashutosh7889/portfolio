@@ -51,6 +51,9 @@ html{
 .home .navbar-content .nav-item .nav-link a:hover{
 	color: red;
 }
+.nav-item:hover{
+   font-size: 20px;
+}
 
 .home-content{
 	background-color: transparent;
