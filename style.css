@@ -303,6 +303,15 @@ html{
 	transition: all 1s ease;
 }
 
+.services .row .box:hover .img-setting .fa{
+	color: grey;
+	border-color: grey;
+	background-color: white;
+
+	/*animation: animateVisible 1.5s ease;*/
+}
+
+
 
 
 
