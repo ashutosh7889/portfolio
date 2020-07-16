@@ -148,6 +148,11 @@ html{
 	font-weight: 500;
 }
 
+.about-me .section-content{
+	padding-left: 20px;
+	justify-content: center;
+}
+
 
 
 
