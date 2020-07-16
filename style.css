@@ -286,6 +286,19 @@ html{
 	transition: all 0.5s ease;
 }
 
+.services .row .img-setting .fa{
+	background-color: grey;
+	color: white;
+	border-radius: 50%;
+	height: 130px;
+	width: 130px;
+	padding-top: 5px;
+	margin-top: 15px;
+	padding-top: 20px;
+	border: 9px solid white;
+	transition: all 1s ease;
+}
+
 
 
 
