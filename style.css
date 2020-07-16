@@ -345,6 +345,17 @@ html{
 	position: relative;
 }
 
+.projects .section-title h1:before{
+	bottom: 0;
+	content: '';
+	right: 33%;
+	left: 33%;
+	height: 3px;
+	position: absolute;
+	background-color: white;
+}
+
+
 
 
 
