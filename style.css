@@ -153,6 +153,13 @@ html{
 	justify-content: center;
 }
 
+.about-me .section-content .row .list{
+	/*margin-top: 20px;*/
+	/*padding-top: 10px;*/
+	padding-bottom: 10px;
+	border-bottom: 2px solid black;
+}
+
 
 
 
