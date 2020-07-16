@@ -201,6 +201,12 @@ html{
 	padding-left: 13px;
 }
 
+.about-me .section-content .social-links a:hover{
+	color: white;
+	background-color: black;
+	border-color: black;
+}
+
 
 
 
