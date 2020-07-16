@@ -224,6 +224,12 @@ html{
 	margin-top: 100px;
 }
 
+.skills .container .row{
+	padding-top: 100px;
+	padding-bottom: 100px;
+	justify-content: space-between;
+}
+
 
 
 
