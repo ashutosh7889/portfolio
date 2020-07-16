@@ -427,6 +427,10 @@ html{
 	position: absolute;
 }
 
+.gallery .section-content .card .image-setting img:hover{
+	opacity: 100%;
+}
+
 
 
 
