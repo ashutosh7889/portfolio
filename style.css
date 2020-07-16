@@ -256,6 +256,14 @@ html{
 	padding: 70px 15px;
 }
 
+.services .section-title h1{
+	text-transform: uppercase;
+	font-weight: bold;
+	position: relative;
+	padding-bottom: 15px;
+
+}
+
 
 
 
